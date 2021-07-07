@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo Site</title>
+    <link>https://hellokuls.github.io/</link>
+    <description>Recent content on A Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Sun, 04 Jul 2021 06:29:42 +0800</lastBuildDate>
+    
+        <atom:link href="https://hellokuls.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Start</title>
+        <link>https://hellokuls.github.io/posts/start/</link>
+        <pubDate>Sun, 04 Jul 2021 06:29:42 +0800</pubDate>
+        
+        <guid>https://hellokuls.github.io/posts/start/</guid>
+        <description>A Hugo Site https://hellokuls.github.io/posts/start/ -&lt;p&gt;你好，我是Kuls。&lt;/p&gt;
+- https://hellokuls.github.io/posts/start/ - This is a customized copyright.</description>
+        </item>
+    
+    
+  </channel>
+</rss> 
